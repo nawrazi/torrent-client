@@ -4,12 +4,12 @@ This is a command-line torrent client application developed in Golang that can d
 Clone the repository using the following command:
 
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone [https://github.com/your-username/your-repo.git](https://github.com/nawrazi/torrent-client)
 ```
 
 Navigate to the directory containing the source code:
 ```sh
-cd your-repo
+cd torrent-client
 ```
 
 Run the application using the following command:
